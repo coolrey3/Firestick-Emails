@@ -35,7 +35,7 @@ for($i=1;$i<=$n;$i===$i++) {
 
     echo "<tr><td> $i.</td>";
     echo  "<td>firestick" . $i ."@mobilerepairtechs.com</td>";
-    echo  "  <td>a2294294</td></tr>";
+    echo  "  <td>****</td></tr>";
 
                             }?>
 
